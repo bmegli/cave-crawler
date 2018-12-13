@@ -25,6 +25,8 @@ The cave-crawler microcontroller firmware code (Teensy 3.5)
 
 ### [xv11lidar-arduino](https://github.com/bmegli/xv11lidar-arduino)
 
-Arduino/Teensy library for communication with XV11 lidar 
+Arduino/Teensy library for non-blocking communication with XV11 lidar 
 
+### [rplidar-a3-arduino](https://github.com/bmegli/rplidar-a3-arduino)
 
+Arduino/Teensy library for non-blocking communication with RPLidar A3
