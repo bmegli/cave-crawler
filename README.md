@@ -19,6 +19,10 @@ C library for communication with [Roboclaw](http://www.basicmicro.com/) motor co
 
 C library for communication with Variense [VMU931](https://variense.com/product/vmu931/) inertial measurment unit.
 
+### [hardware-video-streaming](https://github.com/bmegli/hardware-video-streaming)
+
+A few C/C++ libraries with examples dedicated to accelerated video streaming.
+
 ### [cave-crawler-mcu](https://github.com/bmegli/cave-crawler-mcu)
 
 The cave-crawler microcontroller firmware code (Teensy 3.5)
