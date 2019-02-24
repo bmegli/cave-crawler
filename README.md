@@ -21,7 +21,7 @@ C library for communication with Variense [VMU931](https://variense.com/product/
 
 ### [hardware-video-streaming](https://github.com/bmegli/hardware-video-streaming)
 
-A few C/C++ libraries with examples dedicated to accelerated video streaming.
+C/C++ libraries with examples of accelerated video streaming.
 
 ### [cave-crawler-mcu](https://github.com/bmegli/cave-crawler-mcu)
 
