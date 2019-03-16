@@ -23,6 +23,10 @@ C library for communication with Variense [VMU931](https://variense.com/product/
 
 C/C++ libraries with examples of accelerated video streaming.
 
+### [cave-crawler-lib](https://github.com/bmegli/cave-crawler-lib)
+
+C library for communication with cave-crawler microcontroller
+
 ### [cave-crawler-mcu](https://github.com/bmegli/cave-crawler-mcu)
 
 The cave-crawler microcontroller firmware code (Teensy 3.5)
