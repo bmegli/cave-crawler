@@ -38,3 +38,9 @@ Arduino/Teensy library for non-blocking communication with XV11 lidar
 ### [rplidar-a3-arduino](https://github.com/bmegli/rplidar-a3-arduino)
 
 Arduino/Teensy library for non-blocking communication with RPLidar A3
+
+### [bmegli/EM7180](https://github.com/bmegli/EM7180/tree/async-i2c)
+
+Teensy library for non-blocking communication with EM7180 (a fork of blocking [EM7180](https://github.com/simondlevy/EM7180) )
+
+
