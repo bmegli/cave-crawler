@@ -3,6 +3,8 @@ The cave-crawler project meta repository
 
 This repository points to various subprojecs of cave-crawler project.
 
+![Alt text](https://raw.githubusercontent.com/bmegli/ev3dev-mapping-results/master/screenshots/offroad_android_non_EV3.jpg "The Cave Crawler Project")
+
 ## HMI controller
 
 ### [ev3dev-mapping-ui](https://github.com/bmegli/ev3dev-mapping-ui)
