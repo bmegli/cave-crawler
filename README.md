@@ -3,7 +3,11 @@ The cave-crawler project meta repository
 
 This repository points to various subprojecs of cave-crawler project.
 
-![Alt text](https://raw.githubusercontent.com/bmegli/ev3dev-mapping-results/master/screenshots/offroad_android_non_EV3.jpg "The Cave Crawler Project")
+![cave_crawler](https://raw.githubusercontent.com/bmegli/ev3dev-mapping-results/master/screenshots/offroad_android_non_EV3.jpg "The Cave Crawler Project")
+
+![garage](https://user-images.githubusercontent.com/9095769/54776562-b288ac80-4c10-11e9-937e-6a146739d864.png "The Garage...")
+
+![home](https://user-images.githubusercontent.com/9095769/54776565-b74d6080-4c10-11e9-9746-9f50cc3b9b63.png "Home, sweet home...")
 
 ## HMI controller
 
