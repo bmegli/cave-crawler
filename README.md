@@ -3,16 +3,15 @@ The cave-crawler project meta repository
 
 This repository points to various subprojecs of cave-crawler project.
 
-Synopsis - an overly ambitious robotics project focused on high precission mapping
-
-State:
-- libraries usable by anybody
-- end project usable by author (immature)
+Synopsis - an overly ambitious robotics project focused on high precission mapping.
 
 ![cave_crawler](https://raw.githubusercontent.com/bmegli/ev3dev-mapping-results/master/screenshots/offroad_android_non_EV3.jpg "The Cave Crawler Project")
 
 ![home](https://user-images.githubusercontent.com/9095769/54776565-b74d6080-4c10-11e9-9746-9f50cc3b9b63.png "Home, sweet home...")
 
+State:
+- libraries usable by anybody
+- end project usable by author (immature)
 
 ## HMI controller
 
