@@ -1,9 +1,9 @@
 The cave-crawler project meta repository 
 ========================================
 
-This repository points to various subprojecs of cave-crawler project.
-
 Synopsis - an overly ambitious robotics project focused on high precission mapping.
+
+This repository points to various subprojecs of cave-crawler project.
 
 ![cave_crawler](https://raw.githubusercontent.com/bmegli/ev3dev-mapping-results/master/screenshots/offroad_android_non_EV3.jpg "The Cave Crawler Project")
 
