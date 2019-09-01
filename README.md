@@ -1,7 +1,7 @@
 The cave-crawler project meta repository 
 ========================================
 
-Synopsis - an overly ambitious robotics project focused on high precission mapping.
+An overly ambitious robotics project focused on high precission mapping.
 
 This repository points to various subprojecs of cave-crawler project.
 
